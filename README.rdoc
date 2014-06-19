@@ -1,20 +1,19 @@
-```html
-<h1>prettyRadBar.js</h1>
+prettyRadBar.js
 
-<p><i>This little jQuery plugin receives random amount of hex color codes and creates a full width resizable bar.</i></p>
+<i>This little jQuery plugin receives random amount of hex color codes and creates a full width resizable bar.</i>
 
-<p><strong>Example:</strong></p>
+Example:
 
 
 <code>
-var colours = [ '999999', 'B2E1DB', '308FCF', 'EC1783', '2B9C68' ];<br />
-$('#myRadBar').prettyRadBar({<br />
-	color: colours, <br />
-	animate: true<br />
-});<br />
+var colours = [ '999999', 'B2E1DB', '308FCF', 'EC1783', '2B9C68' ]; \n
+$('#myRadBar').prettyRadBar({ \n
+	color: colours, \n
+	animate: true \n
+});
 </code>
 
-<p>Adjust your css as necessary, for example:</p>
+Adjust your css as necessary, for example:
 
 <code>
 #myRadBar {
