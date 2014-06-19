@@ -9,19 +9,6 @@ Example:
 
 <code>$('#radBar').prettyRadBar({ color: colours, animate: true });</code>
 
-And don't forget some simple styling:
-
-#radBar {
-	position:relative;
-	height:12px;
-	overflow: hidden;
-	width: 100%;
-	div {
-		height: 12px;
-		float: left;
-	}
-}
-
 
 
 
