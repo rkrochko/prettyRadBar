@@ -1,3 +1,4 @@
+```html
 <h1>prettyRadBar.js</h1>
 
 <p><i>This little jQuery plugin receives random amount of hex color codes and creates a full width resizable bar.</i></p>
